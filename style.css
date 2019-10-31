@@ -1,0 +1,46 @@
+h1 {
+	color: black;
+}
+table,
+td {
+	border: 1px solid #333;
+	padding: 10px 10px 0px 10px;
+}
+thead,
+th {
+	background-color: lightgrey;
+	color: black;
+}
+tr {
+	background-color: grey;
+	color: white;
+}
+td {
+	background-color: #808080;
+	cursor: grab;
+}
+ 
+.groen {
+	background-color: orange;
+	color: lightgreen;
+}
+
+.paars {
+	background-color: purple;
+	color: black;
+}
+
+.blauw {
+	background-color: blue;
+	color: black;
+}
+
+.geel {
+	background-color: yellow;
+	color: black;
+}
+
+.kleur:hover {
+    background-color: red !important;
+}
+
